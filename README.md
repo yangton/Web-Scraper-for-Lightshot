@@ -27,7 +27,7 @@ To use this web scraper for Lightshot screenshots, follow these steps:
 
 3. **Run the main Python file.**
 
-    **python main.py**
+**python main.py**
 
 5. **Check the `downloaded_images` folder for the saved images and the `output.json` file for the results.**
 
